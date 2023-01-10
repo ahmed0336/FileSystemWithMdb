@@ -1,0 +1,21 @@
+        nodes js Boiler
+
+==>.en ==>secret files which will hide from any one
+
+mngodbpassword==>zDzJv0sjAo0vGbs6
+
+username==>ahmedadmin
+pas==>7if4W5WfFoSaLtaZ
+
+this live path of mongodb
+mongodb+srv://<username>:<password>@cluster0.zjzvkg8.mongodb.net/?retryWrites=true&w=majority
+
+==>npm init or yarn init -y(without asking anything) ==>pk.json
+==>npm express ==> create serve with node_modules
+==>npm nodemon ==>automatic start server -D 
+==>npm mongoose
+==>npm dotenv ==>keep secret things by saving in environment varaible
+==>npm i multer ==>for file upload
+==>uuid==>make unique id
+ 
+1)configer(folder)==>file(db.js)==>for db connection
